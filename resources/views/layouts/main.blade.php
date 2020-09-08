@@ -252,10 +252,10 @@
                         <div class="content">
                             <ul class="menu">
                                 <li>
-                                    <a href="{{ url('/') }}"><i class="fa fa-angle-right"></i>Home</a>
+                                    <a href="{{ url('/') }}">Home</a>
                                 </li>
                                 <li>
-                                    <a href="{{ url('about') }}"><i class="fa fa-angle-right"></i>About Us</a>
+                                    <a href="{{ url('about') }}">About Us</a>
                                 </li>
                                 <li>
                                     <a href="{{ url('products') }}"><i class="fa fa-angle-right"></i>Products</a>
