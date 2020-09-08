@@ -105,7 +105,7 @@
         <div class="emergency-call-2__bg"></div>
         <div class="container">
             <h3>Need an emengency help?</h3>
-            <h1 class="section-title section-title_60 section-title_white">we care about you health!<br>call us now
+            <h1 class="section-title section-title_60 section-title_white">we care about your health!<br>call us now
             </h1>
             <div class="call">
                 <div class="icon">

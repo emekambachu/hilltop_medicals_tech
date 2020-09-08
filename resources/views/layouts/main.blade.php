@@ -121,21 +121,21 @@
             <!-- navbar__menu-link clicked jquery -> event.preventDefoult() -->
             <div class="navbar">
 
-                <ul class="navbar__menu">
+                <ul class="navbar__menu font-weight-bold">
                     <li class="navbar__menu-item">
-                        <a class="navbar__menu-link" href="{{ url('/') }}">Home</a>
+                        <a href="{{ url('/') }}">Home</a>
                     </li>
                     <li class="navbar__menu-item">
-                        <a class="navbar__menu-link" href="{{ url('products') }}">Products</a>
+                        <a href="{{ url('products') }}">Products</a>
                     </li>
                     <li class="navbar__menu-item">
-                        <a class="navbar__menu-link" href="{{ url('services') }}">Services</a>
+                        <a href="{{ url('services') }}">Services</a>
                     </li>
                     <li class="navbar__menu-item">
-                        <a class="navbar__menu-link" href="{{ url('about') }}">About us</a>
+                        <a href="{{ url('about') }}">About us</a>
                     </li>
                     <li class="navbar__menu-item">
-                        <a class="navbar__menu-link" href="{{ url('contact') }}">Contacts</a>
+                        <a href="{{ url('contact') }}">Contacts</a>
                     </li>
                 </ul>
 
@@ -239,34 +239,18 @@
                                 </div>
                                 <label>* Personal data will be encrypted</label>
                             </form>
-                            <div class="socials">
-                                <a href="#" title="facebook"><i class="fa fa-facebook"></i></a>
-                                <a href="#" title="twitter"><i class="fa fa-twitter"></i></a>
-                                <a href="#" title="instagram"><i class="fa fa-instagram"></i></a>
-                            </div>
+
                         </div>
                     </div>
 
                     <div class="footer__top-blocks">
                         <h1 class="title">Company</h1>
                         <div class="content">
-                            <ul class="menu">
-                                <li>
-                                    <a href="{{ url('/') }}">Home</a>
-                                </li>
-                                <li>
-                                    <a href="{{ url('about') }}">About Us</a>
-                                </li>
-                                <li>
-                                    <a href="{{ url('products') }}"><i class="fa fa-angle-right"></i>Products</a>
-                                </li>
-                                <li>
-                                    <a href="{{ url('services') }}"><i class="fa fa-angle-right"></i>Services</a>
-                                </li>
-                                <li>
-                                    <a href="{{ url('contact') }}"><i class="fa fa-angle-right"></i>Contact us</a>
-                                </li>
-                            </ul>
+                            <div class="socials">
+                                <a href="#" title="facebook"><i class="fa fa-facebook"></i></a>
+                                <a href="#" title="twitter"><i class="fa fa-twitter"></i></a>
+                                <a href="#" title="instagram"><i class="fa fa-instagram"></i></a>
+                            </div>
                         </div>
                     </div>
                 </div>

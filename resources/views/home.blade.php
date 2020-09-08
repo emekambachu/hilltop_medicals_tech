@@ -492,7 +492,7 @@
                     </div>
                     <div class="content">
                         <h1>24 Hour Emergency</h1>
-                        <p>Open round the clock for conve-nience, quick and easy access</p>
+                        <p>Open round the clock for convenience, quick and easy access</p>
                     </div>
                 </div>
 
@@ -541,7 +541,7 @@
         <div class="emergency-call-2__bg"></div>
         <div class="container">
             <h3>Need an emengency help?</h3>
-            <h1 class="section-title section-title_60 section-title_white">we care about you health!<br>call us now
+            <h1 class="section-title section-title_60 section-title_white">we care about your health!<br>call us now
             </h1>
             <div class="call">
                 <div class="icon">
