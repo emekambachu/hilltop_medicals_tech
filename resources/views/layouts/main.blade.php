@@ -65,7 +65,7 @@
                               transform="translate(-809 -353.063)" /></svg>
                     <div class="header-top__call-text">
                         <p>Call us for any question</p>
-                        <a href="">+61480053125, +61488894091</a>
+                        <a href="">+61480053125</a>
                     </div>
                 </div>
                 <!-- End of .header-top__call-item -->
