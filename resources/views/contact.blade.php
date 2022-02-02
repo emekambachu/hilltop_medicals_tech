@@ -44,7 +44,7 @@
                         <div class="number">
                             <a href="tel:+61480053125">+61480053125</a>
                         </div>
-                        <p class="adress">1560 Holden Street San Diego, CA 92139</p>
+                        <p class="adress">Bourke Street, Melbourne VIC 3000, Australia</p>
                         <a href="mailto:info@hilltopmedicalstech" class="email">info@hilltopmedicalstech</a>
                         <a href="#" class="btn btn-2_pink">get appointment</a>
                     </div>

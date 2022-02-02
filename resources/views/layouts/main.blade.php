@@ -193,7 +193,7 @@
                                               transform="translate(-1024.31 -352)" /></svg>
                                 </div>
                                 <div class="text">
-                                    <p>405 Lan Street, New York, USA</p>
+                                    <p>Bourke Street, Melbourne VIC 3000, Australia</p>
                                     <a href="#" class="location">Get directions on the map <i
                                             class="fa fa-map-marker"></i></a>
                                 </div>
