@@ -1,5 +1,6 @@
 <?php
 
+use App\Http\Controllers\GithubDeploymentController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -32,3 +33,6 @@ Route::get('about', static function () {
 Route::get('contact', static function () {
     return view('contact');
 });
+
+//GitHub Deployment
+Route::post('/github/deploy', [GithubDeploymentController::class, 'deploy']);
