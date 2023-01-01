@@ -87,7 +87,7 @@
                                           transform="translate(-2084 -1278)" /></svg>
                             </div>
                             <h1 class="services__item-title">Care Management</h1>
-                            <p class="services__item-text">dentify outreach and care gaps opportunities with custom patient cohorts across hundreds of clinical and decision support fields.
+                            <p class="services__item-text">Identify outreach and care gaps opportunities with custom patient cohorts across hundreds of clinical and decision support fields.
                             </p>
                         </div>
                     </div>

@@ -181,8 +181,7 @@
                                               transform="translate(-809 -353.063)" /></svg>
                                 </div>
                                 <div class="text">
-{{--                                    <a href="tel:+19174102553">+19174102553 (United States)</a>--}}
-{{--                                    <a href="tel:+61488894091">+61488894091 (Australia)</a>--}}
+                                    <a href="tel:+61488892086">+61488892086</a>
                                 </div>
                             </div>
                             <div class="content-item">
@@ -193,9 +192,9 @@
                                               transform="translate(-1024.31 -352)" /></svg>
                                 </div>
                                 <div class="text">
+                                    <p><strong>Address:</strong></p>
                                     <p>Bourke Street, Melbourne VIC 3000, Australia</p>
-                                    <a href="#" class="location">Get directions on the map <i
-                                            class="fa fa-map-marker"></i></a>
+                                    <p>Bolewski Street, Avoca Bundaberg, QLD 4670, Australia</p>
                                 </div>
                             </div>
                             <div class="content-item">
@@ -263,7 +262,6 @@
             <p>Copyright &copy; {{ date('Y') }} Hilltop Medical Technology | Privacy Policy</p>
         </div>
         <!-- End of .footer__bottom -->
-
     </footer>
     <!-- End of .footer -->
 
